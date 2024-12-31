@@ -48,7 +48,7 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 Program for flipflops and verify its truth table in quartus using Verilog programming. 
 
-Developed by: DANIYEL ANTONY RAJ SD
+Developed by: Daniyel Antony Raj SD
 
 RegisterNumber: 212224220018
 ```
@@ -74,6 +74,6 @@ endmodule
 ![image](https://github.com/user-attachments/assets/a566c1a0-b17d-44bf-b842-e8b79e71f0f4)
 
 
-**RESULTS**
+**RESULT**
 
 Hence a 4 bit synchronous up counter is implemented correctly
